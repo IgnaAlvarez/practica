@@ -1,0 +1,6 @@
+@db_practica_HostAddress = http://localhost:5199
+
+GET {{db_practica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
